@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.py
-win10notify/__init__.py
-win10notify.egg-info/PKG-INFO
-win10notify.egg-info/SOURCES.txt
-win10notify.egg-info/dependency_links.txt
-win10notify.egg-info/top_level.txt
