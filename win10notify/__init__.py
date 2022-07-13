@@ -2,8 +2,8 @@ import logging
 import threading
 from os.path import realpath
 
-import winrt.windows.data.xml.dom as dom
-import winrt.windows.ui.notifications as notifications
+import winsdk.windows.data.xml.dom as dom
+import winsdk.windows.ui.notifications as notifications
 
 __all__ = ["Notifier"]
 logger = logging.getLogger(__name__)

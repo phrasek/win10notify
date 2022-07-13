@@ -1,6 +1,10 @@
 # win10notify
 
-A library to create Windows 10 Toast Notifications
+A library to create Windows 10 toast notifications.
+
+# Requirements
+
+[PyWinRT](https://github.com/pywinrt/pywinrt) 
 
 # Example usage
 

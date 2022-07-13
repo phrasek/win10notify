@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="win10notify",
-    version="0.0.4",
+    version="0.0.5",
     author="phrasek",
     author_email="64117215+phrasek@users.noreply.github.com",
     description="A library to create Windows 10 Toast Notifications",
