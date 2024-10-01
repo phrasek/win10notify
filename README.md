@@ -4,7 +4,7 @@ A library to create Windows 10 toast notifications.
 
 # Requirements
 
-[PyWinRT](https://github.com/pywinrt/pywinrt) 
+[PyWinRT]([https://github.com/pywinrt/pywinrt](https://pypi.org/project/winsdk/)) 
 
 # Example usage
 
